@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.8)  6 JAN 2025 01:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.8)  6 JAN 2025 02:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -481,7 +481,7 @@ Package hyperref Info: Link coloring ON on input line 79.
 \openout3 = `"Exploration of Bose-Einstein Condensation in Harmonic Potential Traps.out"'.
 
 \c@lstlisting=\count305
-<zewailcity logo.jpg, id=71, 4266.94125pt x 4266.94125pt>
+<zewailcity logo.jpg, id=79, 4266.94125pt x 4266.94125pt>
 File: zewailcity logo.jpg Graphic file (type jpg)
 <use zewailcity logo.jpg>
 Package pdftex.def Info: zewailcity logo.jpg  used on input line 103.
@@ -566,7 +566,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 321--322
  []
 
 [6]
-<N_0N_graph_high_quality.png, id=158, 1162.3425pt x 925.4575pt>
+<N_0N_graph_high_quality.png, id=168, 1162.3425pt x 925.4575pt>
 File: N_0N_graph_high_quality.png Graphic file (type png)
 <use N_0N_graph_high_quality.png>
 Package pdftex.def Info: N_0N_graph_high_quality.png  used on input line 328.
@@ -577,35 +577,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--334
  []
 
 [7 <./N_0N_graph_high_quality.png>] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 410--412
+Underfull \hbox (badness 10000) in paragraph at lines 411--413
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 412.
+(hyperref)                removing `math shift' on input line 413.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 412.
+(hyperref)                removing `math shift' on input line 413.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
 
  []
 
-<output.png, id=183, 417.7206pt x 327.3831pt>
+<output.png, id=195, 417.7206pt x 327.3831pt>
 File: output.png Graphic file (type png)
 <use output.png>
-Package pdftex.def Info: output.png  used on input line 433.
+Package pdftex.def Info: output.png  used on input line 434.
 (pdftex.def)             Requested size: 317.07614pt x 248.50401pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--438
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
 
  []
 
 [9 <./output.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 439--442
+Underfull \hbox (badness 10000) in paragraph at lines 440--443
 
  []
 
@@ -615,20 +615,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `"Exploration of Bose-Einstein Condensation in Harmonic Potential Traps".out' has not changed.
-(rerunfilecheck)             Checksum: A40EFA776867215DD012F11A8C94BD39;3600.
+(rerunfilecheck)             Checksum: D6324E0ACED36C0536884EDDD39091A6;4007.
  ) 
 Here is how much of TeX's memory you used:
- 21830 strings out of 474486
- 367087 string characters out of 5743756
+ 21834 strings out of 474486
+ 367157 string characters out of 5743756
  1958542 words of memory out of 5000000
- 43874 multiletter control sequences out of 15000+600000
+ 43876 multiletter control sequences out of 15000+600000
  567059 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,1049b,8749s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/youse/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "Exploration of Bose-Einstein Condensation in Harmonic Potential Traps.pdf" (11 pages, 1044868 bytes).
+Output written on "Exploration of Bose-Einstein Condensation in Harmonic Potential Traps.pdf" (11 pages, 1046152 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 312 PDF objects out of 1000 (max. 8388607)
+ 65 named destinations out of 1000 (max. 500000)
+ 168 words of extra memory for PDF output out of 10000 (max. 10000000)
 
